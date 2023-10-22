@@ -14,6 +14,7 @@ public class Fungsi {
         Nama.Mamih("Charlie");
 
         NamaJuga.NamaDia("beda tempat");
+        NamaJuga.NamaDia("contoh GIT");
 
         angka(x,y);
         angka(x,z);
